@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Mayur Talewar](https://github.com/Mayurtalewar)
+
+- Place: Pune, Maharashtra, India
+- Bio: Third Year Undergrad pursuing B.Tech in Electronics and Telecommunication Engineering
+- GitHub: [Mayurtalewar](https://github.com/Mayurtalewar)
